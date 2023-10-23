@@ -103,6 +103,7 @@ editForm.addEventListener("submit", (e) =>{
     updateTodo(editInputValue)
   }
 
+  salvarTarefas();
   toggleForms();
 })
 
